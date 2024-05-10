@@ -1,0 +1,1 @@
+# ddd-object-generator-php
