@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "456d4fc8cf024a76eddd37f84e683827",
+    "packages": [
+        {
+            "name": "nora-shirokuma/class-generator-php",
+            "version": "v1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/nora-shirokuma/class-generator-php.git",
+                "reference": "facca88ae130436ed6548efe107ac03e282e9d42"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/nora-shirokuma/class-generator-php/zipball/facca88ae130436ed6548efe107ac03e282e9d42",
+                "reference": "facca88ae130436ed6548efe107ac03e282e9d42",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "NoraShirokuma\\ClassGeneratorPhp\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "nora-shirokuma",
+                    "email": "myself@nora-shirokuma.com"
+                }
+            ],
+            "description": "php class generator",
+            "support": {
+                "issues": "https://github.com/nora-shirokuma/class-generator-php/issues",
+                "source": "https://github.com/nora-shirokuma/class-generator-php/tree/v1.0.1"
+            },
+            "time": "2024-05-10T06:15:03+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}

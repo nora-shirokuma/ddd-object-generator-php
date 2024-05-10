@@ -1,0 +1,21 @@
+{
+    "name": "nora-shirokuma/ddd-object-generator-php",
+    "description": "ddd object generator",
+    "type": "library",
+    "require": {
+        "nora-shirokuma/class-generator-php": "^1.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "NoraShirokuma\\DddObjectGeneratorPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nora-shirokuma",
+            "email": "myself@nora-shirokuma.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
